@@ -3,4 +3,6 @@
 <vars>
     <var name="product" value="SVK BOT"/>
     <var name="product.invite" value="https://discord.gg/WXjtbMMhpd"/>
+    <var name="donate.paypal" value="https://www.paypal.com/paypalme/svalerocardona"/>
+    <var name="donate.kofi" value="https://ko-fi.com/svkstudio"/>
 </vars>

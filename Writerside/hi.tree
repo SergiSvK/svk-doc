@@ -3,12 +3,9 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Bienvenida"
+                 name="📖 Documentation Official"
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
-    <toc-element topic="Overview.md"/>
-    <toc-element topic="Reference.md"/>
-    <toc-element topic="Tutorial.md"/>
-    <toc-element topic="How-to.md"/>
+    <toc-element topic="Configurar-el-bot.md"/>
 </instance-profile>
