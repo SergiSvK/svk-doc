@@ -4,7 +4,7 @@ Autor: [SergiSvK](https://github.com/SergiSvK/)
 
 
 ## Bienvenido 🎉
-Bienvenido a la documentación de %product% , aquí encontrarás toda la información necesaria para poder utilizar el bot de 
+Bienvenido a la documentación de %product%, aquí encontrarás toda la información necesaria para poder utilizar el bot de 
 manera correcta.
 
 
